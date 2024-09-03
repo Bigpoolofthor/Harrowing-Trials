@@ -20,54 +20,60 @@ NinTenno_HarrowingTrials_ForgottenRuins_postcard= Try not to randomly die please
 NinTenno_HarrowingTrials_ForgottenRuins_remix= Its a b side
 NinTenno_HarrowingTrials_ForgottenRuins_remix_artest= me
 
-#Forgotten Ruins
 
-NinTenno_HarrowingTrials_Ruins_1_Badeline=
-        [Badeline left noormal]
-        Hello{n}
-        What brings you here.
+# Forgotten Ruins
 
-        [Madeline right normal]
-        I just exisit 
 
-        [Badeline left noormal]
-        Thats boaring
-        Stop doing that.
-        Its lame.
+        NinTenno_HarrowingTrials_Ruins_1_Badeline=
+                [Badeline left noormal]
+                Hello{n}
+                What brings you here.
 
-NinTenno_HarrowingTrials_Ruins_2_Badeline=
-        [Badeline right normal]
-        So why does this dialog exist? 
-        [Theo right normal]
-        You know I have no idea.\
-        [Madeline left normal]
-        I think its just because\. 
-        
-NinTenno_HarrowingTrials_Ruins_1_Theo=
-        [Theo left thinking]
-        Lets see if this works like the wiki says
-        Sorry it not
+                [Madeline right normal]
+                I just exisit 
 
-        [Badeline right freakA]
-        {*}Aw man it was not supposted to work.{/*}
+                [Badeline left noormal]
+                Thats boaring
+                Stop doing that.
+                Its lame.
 
-        [Madeline right Upset]
-        Thats super encoraging.
 
-        [Theo left normal]
-        Spell right please.
+        NinTenno_HarrowingTrials_Ruins_2_Badeline=
+                [Badeline right normal]
+                So why does this dialog exist? 
 
-        [Madeline right sadder]
-        But I really don't want to.
-        
-        [Madeline right distracted]
-        I just don't know if I am able to.{n}
-        Like it does not do anything.
+                [Theo right normal]
+                You know I have no idea.\
 
-NinTenno_HarrowingTrials_Ruins_2_Theo=
-        [Madeline right sad]
-        What do you want from me?{n} 
-        I want to not die.
+                [Madeline left normal]
+                I think its just because\. 
 
-        [Theo left wtf]
-        What do you even mean???
+                
+        NinTenno_HarrowingTrials_Ruins_1_Theo=
+                [Theo left thinking]
+                Lets see if this works like the wiki says
+                Sorry it not
+
+                [Badeline right freakA]
+                {*}Aw man it was not supposted to work.{/*}
+
+                [Madeline right Upset]
+                Thats super encoraging.
+
+                [Theo left normal]
+                Spell right please.
+
+                [Madeline right sadder]
+                But I really don't want to.
+                
+                [Madeline right distracted]
+                I just don't know if I am able to.{n}
+                Like it does not do anything.
+
+        NinTenno_HarrowingTrials_Ruins_2_Theo=
+                [Madeline right sad]
+                What do you want from me?{n} 
+                I want to not die.
+
+                [Theo left wtf]
+                What do you even mean???
