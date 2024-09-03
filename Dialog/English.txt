@@ -34,6 +34,14 @@ NinTenno_HarrowingTrials_Ruins_1_Badeline=
         Thats boaring
         Stop doing that.
         Its lame.
+
+NinTenno_HarrowingTrials_Ruins_2_Badeline=
+        [Badeline right normal]
+        So why does this dialog exist? 
+        [Theo right normal]
+        You know I have no idea.\
+        [Madeline left normal]
+        I think its just because\. 
         
 NinTenno_HarrowingTrials_Ruins_1_Theo=
         [Theo left thinking]
