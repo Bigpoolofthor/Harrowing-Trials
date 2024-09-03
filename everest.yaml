@@ -1,5 +1,4 @@
-- DLL: bin/HarrowingTrials.dll
-  Name: Harrowing Tials
+- Name: Harrowing Tials
   Version: 0.1
   Dependencies:
     - Name: Everest
