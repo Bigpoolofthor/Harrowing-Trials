@@ -1,0 +1,65 @@
+#What brings you here?
+#You trying to find something poking around here?
+#I am unsure how to feel about this.
+#Have a good day I guess.
+
+NinTenno_HarrowingTrials= Harrowing Trials 
+
+NinTenno_HarrowingTrials_ForgottenRuins= Forgotten Ruins
+NinTenno_HarrowingTrials_Laboratory= Laboratory
+NinTenno_HarrowingTrials_Lua= Lua
+
+
+NinTenno_HarrowingTrials_ForgottenRuins_E1= Extra
+
+poem_NinTenno_HarrowingTrials_ForgottenRuins_A= You got a heart!
+poem_NinTenno_HarrowingTrials_ForgottenRuins_B= Good job I guess...
+
+NinTenno_HarrowingTrials_ForgottenRuins_postcard= Try not to randomly die please.{n} For the worlds sake.
+
+NinTenno_HarrowingTrials_ForgottenRuins_remix= Its a b side
+NinTenno_HarrowingTrials_ForgottenRuins_remix_artest= me
+
+#Forgotten Ruins
+
+NinTenno_HarrowingTrials_Ruins_1_Badeline=
+        [Badeline left noormal]
+        Hello{n}
+        What brings you here.
+
+        [Madeline right normal]
+        I just exisit 
+
+        [Badeline left noormal]
+        Thats boaring
+        Stop doing that.
+        Its lame.
+        
+NinTenno_HarrowingTrials_Ruins_1_Theo=
+        [Theo left thinking]
+        Lets see if this works like the wiki says
+        Sorry it not
+
+        [Badeline right freakA]
+        {*}Aw man it was not supposted to work.{/*}
+
+        [Madeline right Upset]
+        Thats super encoraging.
+
+        [Theo left normal]
+        Spell right please.
+
+        [Madeline right sadder]
+        But I really don't want to.
+        
+        [Madeline right distracted]
+        I just don't know if I am able to.{n}
+        Like it does not do anything.
+
+NinTenno_HarrowingTrials_Ruins_2_Theo=
+        [Madeline right sad]
+        What do you want from me?{n} 
+        I want to not die.
+
+        [Theo left wtf]
+        What do you even mean???
